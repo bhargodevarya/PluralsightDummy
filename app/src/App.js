@@ -6,7 +6,6 @@ import Header from './components/headers/Header'
 const App = () => {
     return (
         <div>
-            <Header/>
             <Label label="This is the content"/>
             <Label label="Footer"/>
         </div>
